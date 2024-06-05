@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**SanjanaMittapally/SanjanaMittapally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖐️ I’m Sanjana Mittapally.
 
-Here are some ideas to get you started:
+👀 I’m interested in Software Development and new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently working on MERN (MongoDB, Express.js, React.js, Node.js) stack. Also interested in programming (C/C++).
+
+💞️ I’m looking to collaborate on web development projects/SDE projects.
+
+📫 How to reach me:
+- LinkedIn: [Sanjana Mittapally](https://www.linkedin.com/in/mittapally-sanjana-a231b0292)
+- Email: [sanjuwarangal@gmail.com](mailto:sanjuwarangal@gmail.com)
+
+📄 [My resume](https://drive.google.com/file/d/1LDK1l1XLxehs9_rtSTDyHQ1vqA9zndYK/view?usp=sharing)
+
+⚡ Fun fact: I enjoy experimenting with new technologies and building side projects in my free time!
+

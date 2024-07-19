@@ -11,8 +11,7 @@
 - LinkedIn: [Sanjana Mittapally](https://www.linkedin.com/in/mittapally-sanjana-a231b0292)
 - Email: [sanjuwarangal@gmail.com](mailto:sanjuwarangal@gmail.com)
 
-📄 [My resume](https://drive.google.com/file/d/1LDK1l1XLxehs9_rtSTDyHQ1vqA9zndYK/view?usp=sharing)
-
+📄 [My resume](https://drive.google.com/file/d/1wdqZm9FCyfYw-nSTPKe7MUTp4lICi_oK/view?usp=sharing)
 
 🌐 [My Portfolio](https://my-portfolio-bdrf.onrender.com/)
 

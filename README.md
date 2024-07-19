@@ -12,6 +12,8 @@
 - Email: [sanjuwarangal@gmail.com](mailto:sanjuwarangal@gmail.com)
 
 📄 [My resume](https://drive.google.com/file/d/1LDK1l1XLxehs9_rtSTDyHQ1vqA9zndYK/view?usp=sharing)
+
+
 🌐 [My Portfolio](https://my-portfolio-bdrf.onrender.com/)
 
 ⚡ Fun fact: I enjoy experimenting with new technologies and building side projects in my free time!

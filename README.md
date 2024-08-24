@@ -3,6 +3,8 @@
 
 👀 I’m interested in Software Development and new technologies.
 
+💼 I’m currently working as an SDE intern at Code Unity.
+
 🌱 I’m currently working on MERN (MongoDB, Express.js, React.js, Node.js) stack. Also interested in programming (C/C++).
 
 💞️ I’m looking to collaborate on web development projects/SDE projects.

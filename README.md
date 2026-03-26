@@ -32,7 +32,7 @@ I’m interested in **Software Development, scalable systems, and modern technol
 
 ## 📫 Contact  
 
-- 🔗 Portfolio: https://my-portfolio-bdrf.onrender.com/  
+- 🔗 Portfolio: https://sanjanamittapally.github.io/Portfolio_Sanjana/
 - 💼 LinkedIn: https://www.linkedin.com/in/mittapally-sanjana-a231b0292/  
 - 📧 Email: sanjanamittapally06@gmail.com  
 - 📄 Resume: https://sanjanamittapally.cv/

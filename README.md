@@ -1,21 +1,38 @@
+# Mittapally Sanjana  
+**SDE at Quantlytix Pvt. Ltd. | B.Tech Graduate from IIT Dharwad**
 
-🖐️ I’m Sanjana Mittapally.
+---
 
-👀 I’m interested in Software Development and new technologies.
+## 👀 About Me  
+I’m interested in **Software Development, scalable systems, and modern technologies**.
 
-💼 I’m currently working as an SDE intern at Code Unity Technologies.
+💼 Currently working as a **Software Development Engineer at Quantlytix Pvt. Ltd.**, building enterprise-grade applications for global clients like **Kraft Heinz** and **Maersk**.
 
-🌱 I’m currently working on MERN (MongoDB, Express.js, React.js, Node.js) stack. Also interested in programming (C/C++).
+🌱 Working with **React, Next.js, Python, FastAPI, Java, Spring Boot, and Microservices Architecture**.
 
-💞️ I’m looking to collaborate on web development projects/SDE projects.
+---
 
-📫 How to reach me:
-- LinkedIn: [Sanjana Mittapally](https://www.linkedin.com/in/mittapally-sanjana-a231b0292)
-- Email: [sanjuwarangal@gmail.com](mailto:sanjuwarangal@gmail.com)
+## 🚀 Experience & Skills  
 
-📄 [My resume](https://drive.google.com/file/d/14LcvL1Ew2u_2VFO3QXX9M1Ahce5mS2Q2/view?usp=sharing)
+### 💻 What I Do  
+- Build **production-grade full-stack applications**  
+- Design **REST APIs & admin-driven platforms**  
+- Improve **performance (frontend + backend)**  
 
-🌐 [My Portfolio](https://my-portfolio-bdrf.onrender.com/)
+### 💡 Core Strengths  
+- Data Structures & Algorithms  
+- SQL & NoSQL Databases  
 
-⚡ Fun fact: I enjoy experimenting with new technologies and building side projects in my free time!
+---
 
+## 🤝 Collaboration  
+💞️ Open to collaborating on **SDE / Full-Stack / Backend projects**
+
+---
+
+## 📫 Contact  
+
+- 🔗 Portfolio: https://my-portfolio-bdrf.onrender.com/  
+- 💼 LinkedIn: https://www.linkedin.com/in/mittapally-sanjana-a231b0292/  
+- 📧 Email: sanjanamittapally06@gmail.com  
+- 📄 Resume: https://sanjanamittapally.cv/
